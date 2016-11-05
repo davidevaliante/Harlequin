@@ -35,7 +35,7 @@ public class UserPage extends AppCompatActivity {
 
     private RecyclerView mEventList;
 
-    //TODO pulire pagina e ristabilire il colore nero nell'overflow
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,7 +47,7 @@ public class UserPage extends AppCompatActivity {
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
         setSupportActionBar(toolbar);
-        toolbar.setTitleTextColor(Color.WHITE);
+
 
         myDatabase.child("Users").child(currentUser.getUid()).addListenerForSingleValueEvent(
                 new ValueEventListener() {
