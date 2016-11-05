@@ -35,7 +35,7 @@ public class UserPage extends AppCompatActivity {
 
     private RecyclerView mEventList;
 
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

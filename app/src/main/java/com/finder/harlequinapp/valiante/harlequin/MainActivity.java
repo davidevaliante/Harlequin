@@ -129,8 +129,7 @@ public class MainActivity extends Activity {
     //[START] Metodo per loggare con email e password
     public void signIn(){
 
-        //TODO controlla questa stringa probabilmente inutile
-        //questa parte è inutile probabilmente
+
         userEmailString = mEmailField.getText().toString();
         userPasswordString = mPasswordField.getText().toString();
 

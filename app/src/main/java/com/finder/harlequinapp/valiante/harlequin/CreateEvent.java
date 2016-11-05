@@ -213,11 +213,12 @@ public class CreateEvent extends AppCompatActivity {
         Event newEvent = new Event(userEventName,userCreatorName,userDescriptionName,userEventDate,userEventTime,userId);
         myDatabase.child("Events").child(userCreatorName).child(userEventName).setValue(newEvent);
     }
+    //[END] scrive l'evento nel database
 
     //[START] IMMAGINE EVENTO gestione del selezionatore della foto e del cropper
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
+
 
         if(requestCode==galleryRequest && resultCode==RESULT_OK){
 
@@ -225,6 +226,10 @@ public class CreateEvent extends AppCompatActivity {
 
             CropImage.activity(imageUri)
                     .setGuidelines(CropImageView.Guidelines.ON)
+                    .setMinCropResultSize(100,100)
+                    .setMaxCropResultSize(750,500)
+                    .setMinCropWindowSize(0,0)
+
                     //.setAspectRatio(1,1); setta delle impostazioni per il crop
                     //TODO studiare meglio la riga di sopra andando sul gitHub wiki che hai salvato fra i preferiti
                     .start(this);
@@ -242,6 +247,7 @@ public class CreateEvent extends AppCompatActivity {
                 Exception error = result.getError();
             }
         }
+        super.onActivityResult(requestCode, resultCode, data);
     }
     //[END] SELEZIONATORE E CROPPER IMMAGINE
 

@@ -3,12 +3,48 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.00_b95d667af57b58ecc3650dc83def7e3dafb5fd55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.00\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
         <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.00_7f5aeca6b758634edf9a9e33119dc42b47be153e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.00_21eb990a7ae76b69087b7332997589396c394def\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_495962ba2b9620dd5fa6e867bc509bcd7f3d649f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.00_7e191e059743d619c6e19f97731ad17b4e6a7197\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -54,87 +90,6 @@
         revision="24.0.3"
         sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
         <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.00_4d728967c99ace3eeb5065fa8f4a379489dc1285\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_c10a5dbba374cff4035a9355d88ac47cfedfacd1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f5fc015542c77c0d26bb9050534ebcdf463d51d1">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1358362247393c6d46276c9983f144b2fa9a7d25\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_db1e9c5dbbd59a75c71c3610b059ab749d5cb490\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_3aae4a6cda2cb302f240ff7370f48444b0270f3b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_0e0079a552f91ff3949c8da02022b71197102115\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.00\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.00_b95d667af57b58ecc3650dc83def7e3dafb5fd55\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.00\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.00_21eb990a7ae76b69087b7332997589396c394def\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_495962ba2b9620dd5fa6e867bc509bcd7f3d649f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.00\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
-        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.00_7e191e059743d619c6e19f97731ad17b4e6a7197\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -192,12 +147,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_c10a5dbba374cff4035a9355d88ac47cfedfacd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="6ff23b6c67054ca0a88f045e3ea020d9796cb665">
+        sha1="630a362f860672aace343489b4f35a0be7090db8">
         <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32b2d4bc81a765002c787afa0a0c1e7dea07bd4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b3826518bcbfd32d702190831758c374fd5ca996">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1358362247393c6d46276c9983f144b2fa9a7d25\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -210,12 +183,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_db1e9c5dbbd59a75c71c3610b059ab749d5cb490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.00\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="7e92aadd0697922316d1395c1887a23aebec640a">
         <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.00_d9c917e9e4e576f58fe7e1beeb54148dade9ccae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akain\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_3aae4a6cda2cb302f240ff7370f48444b0270f3b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -234,6 +225,15 @@
         revision="24.0.3"
         sha1="5f47ede9561595584dca71104baa0fecb36dda87">
         <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.00_b9057cb890c6964cf18d6b98f43c2d7fa9ff1927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\akain\AndroidStudioProjects\Harlequin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_0e0079a552f91ff3949c8da02022b71197102115\classes.dex" />
     </item>
     <item
         is-multidex="true"
